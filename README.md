@@ -19,9 +19,9 @@ To run this script, you need to install several Python libraries.
     cd U0M1-AUTOMATIC
     ```
 ## Install Required Libraries**
-    ```bash
+    bash
     pip install web3 aiohttp aiohttp-socks colorama pytz python-dotenv
-    ```
+    
 ##
 2.  **Prepare Configuration Files**
     Make sure you have the following files in the same folder as the `main.py` script:
