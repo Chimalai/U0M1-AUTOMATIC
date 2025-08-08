@@ -15,14 +15,14 @@ To run this script, you need to install several Python libraries.
 1.  **clone this repository**
     Open your terminal or Command Prompt and run the following command:
     ```bash
-    git clone https://github.com/Chimalai/U0M1-AUTOMATIC.git
+    git clone [https://github.com/Chimalai/U0M1-AUTOMATIC.git](https://github.com/Chimalai/U0M1-AUTOMATIC.git)
     cd U0M1-AUTOMATIC
     ```
 ## Install Required Libraries**
     ```bash
     pip install web3 aiohttp aiohttp-socks colorama pytz python-dotenv
     ```
-
+##
 2.  **Prepare Configuration Files**
     Make sure you have the following files in the same folder as the `main.py` script:
     * `main.py`: The main script for the bot.
@@ -44,7 +44,7 @@ To run this script, you need to install several Python libraries.
 
 ## Developer
 * **Developer**: PetrukStar
-* ** buy me a coffe ☕** 
+* ** buy me a coffe ☕**
     ```bash
     0x6b09F6E036E83a7F12530Ea96aC25e73090DFF8C
     ```
