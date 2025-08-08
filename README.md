@@ -16,13 +16,13 @@ To run this script, you need to install several Python libraries.
 1.  **clone this repository**
     Open your terminal or Command Prompt and run the following command:
     ```bash
-    git clone https://github.com/https/U0M1-AUTOMATIC.git
+    git clone https://github.com/Chimalai/U0M1-AUTOMATIC.git
     cd U0M1-AUTOMATIC
     ```
 ## Install Required Libraries**
-    
+    ```bash
     pip install web3 aiohttp aiohttp-socks colorama pytz python-dotenv
-    
+    ```
 ##
 2.  **Prepare Configuration Files**
     Make sure you have the following files in the same folder as the `main.py` script:
@@ -31,7 +31,7 @@ To run this script, you need to install several Python libraries.
         ```
         PRIVATE_KEY_1=your_private_key_1
         PRIVATE_KEY_2=your_private_key_2
-        # ... and so on
+        # ... and add more if you want
         ```
     * `proxies.txt`: (Optional) This file contains your list of proxies, one proxy per line.
 
