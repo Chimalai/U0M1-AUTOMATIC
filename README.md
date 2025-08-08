@@ -18,8 +18,7 @@ To run this script, you need to install several Python libraries.
     git clone https://github.com/Chimalai/U0M1-AUTOMATIC.git
     cd U0M1-AUTOMATIC
     ```
-## Installation 
-       **Install Required Libraries**
+## Install Required Libraries**
     ```bash
     pip install web3 aiohttp aiohttp-socks colorama pytz python-dotenv
     ```
