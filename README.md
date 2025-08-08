@@ -1,3 +1,4 @@
+![Banner UOMI-AUTOMATIC](assets/banner.jpg)
 # UOMI-AUTOMATIC
 
 `UOMI-AUTOMATIC` is a Python script designed to automate interactions on the Uomi testnet. This script allows you to easily perform token swaps and add liquidity to pools in bulk, with a simple and quick configuration.
