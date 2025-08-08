@@ -1,0 +1,23 @@
+# Ignore environment variables file
+.env
+
+# Ignore proxy file
+proxies.txt
+
+# Python cache and temporary files
+__pycache__/
+*.pyc
+
+# Virtual environment directory
+.venv/
+env/
+
+# IDE files
+.idea/
+.vscode/
+
+# Package distribution files
+dist/
+build/
+*.egg-info/
+
