@@ -16,7 +16,7 @@ To run this script, you need to install several Python libraries.
 1.  **clone this repository**
     Open your terminal or Command Prompt and run the following command:
     ```bash
-    git clone [https://github.com/Chimalai/U0M1-AUTOMATIC.git](https://github.com/Chimalai/U0M1-AUTOMATIC.git)
+    git clone https://github.com/https/U0M1-AUTOMATIC.git
     cd U0M1-AUTOMATIC
     ```
 ## Install Required Libraries**
